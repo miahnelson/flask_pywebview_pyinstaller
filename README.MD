@@ -29,7 +29,7 @@ pyinstaller test.spec
 
 ## Run the app to see the output
 
-![alt text](./img/app.jpg?style=centerme)
+![alt text](./img/App.jpg?style=centerme)
 
 ## Now its time to write a flask app that can then be compiled into a desktop app using pywebview
 
