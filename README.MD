@@ -17,7 +17,7 @@ pipenv shell
 ![alt text](./img/pipenv_install.jpg?style=centerme)
 
 
-## Run pyinstaller with the included spec file to complie the app
+## Run pyinstaller with the included spec file to compile the app
 ```powershell
 pyinstaller test.spec
 ```
