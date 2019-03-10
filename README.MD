@@ -31,5 +31,8 @@ pyinstaller test.spec
 
 ![alt text](./img/App.jpg?style=centerme)
 
-## Now its time to write a flask app that can then be compiled into a desktop app using pywebview
+# Issues
+### In order to compile correctly, I had to add the following highlighted entries to the spec file prior to running 'pyinstaller test.spec'
+
+![alt text](./img/specfile_additions.jpg?style=centerme)
 
